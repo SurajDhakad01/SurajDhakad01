@@ -1,7 +1,7 @@
 <!-- Typing SVG Animation -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+Nagar!;Data+Analyst+%7C+Frontend+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Final-Year+B.Tech+%40+NIT+Bhopal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Dhakad!;Data+Analyst+%7C+Frontend+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;B.Tech+Computer+Science+Student" />
 </h1>
 
 <h3 align="center">Turning Data into Decisions | Building Insight-Driven & User-Friendly Solutions 🚀</h3>
@@ -9,7 +9,7 @@
 <h4 align="center">
 Data Analyst & Frontend Developer • Python • SQL • Power BI • Excel  
 <br/>
-Final-Year B.Tech (Mechanical Engineering) @ NIT Bhopal
+B.Tech (Computer Science & Engineering)
 </h4>
 
 ---
@@ -17,17 +17,14 @@ Final-Year B.Tech (Mechanical Engineering) @ NIT Bhopal
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:pritamnagar2211@gmail.com">
+  <a href="mailto:surajdhakad@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://pritam9952.github.io" target="_blank">
+  <a href="https://surajdhakad.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/pritam-nagar/">
+  <a href="https://www.linkedin.com/in/suraj-dhakad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/pritam_nagar_027">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -35,31 +32,34 @@ Final-Year B.Tech (Mechanical Engineering) @ NIT Bhopal
 
 ## 🚀 Featured Projects
 
-| 🛠 Project                                  | ⚡ Tech Stack                 | 🔗 Link                                                                                                        |
-| ------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Defect Analysis Dashboard – Eicher TMTL** | Excel, Power Query           | [View](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee)                |
-| **Hospital Management System**              | Python, SQL                  | [View](https://github.com/Pritam9952/Data-Analysis-Project-SQL/tree/main/SQL_HSOPITAL_PROJECT)                 |
-| **Dragon Real Estate – Price Prediction**   | Python, Pandas, Scikit-Learn | [View](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate)                  |
-| **IPL Data Analysis (Mega Auction)**        | Python, Pandas               | [View](https://github.com/Pritam9952/Data_Analysis-Python-Projects/tree/main/IPL%202025%20Mega%20Auction)      |
-| **BlinkIT Grocery Sales Analysis**          | SQL, Python, Power BI        | [View](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Blinkit)                           |
-| **Uber Cab Data Analysis**                  | Python, Power BI, Tableau    | [View](https://github.com/Pritam9952/Major_data_analysis_projects/tree/main/Uber%20Rides%20Analysis%20Project) |
-| **Portfolio Website**                       | HTML, CSS, JavaScript        | [Live](https://pritam9952.github.io)                                                                           |
+| 🛠 Project                        | ⚡ Tech Stack               | 🔗 Status |
+| --------------------------------- | -------------------------- | --------- |
+| **Portfolio Website**             | HTML, CSS, JavaScript      | Live      |
+| **Data Analysis with Python**     | Python, Pandas, Matplotlib | Completed |
+| **SQL Business Insights Project** | MySQL, SQL Queries         | Completed |
+| **Power BI Sales Dashboard**      | Power BI, DAX, Power Query | Completed |
+| **Excel Automation Dashboard**    | Excel, Pivot Tables, VBA   | Completed |
 
 ---
 
-## 🧪 Additional Demo Projects
+## 🧪 Planned & Upcoming Projects *(In Progress)*
 
-* **Sales Performance Dashboard (Demo)**
-  *Power BI, SQL* — KPI tracking, YoY growth, region-wise analysis
+> These projects are currently planned or under development and will be added soon.
 
-* **Customer Churn Analysis (Demo)**
-  *Python, Pandas, Matplotlib* — EDA, churn indicators, insights
+* **Customer Churn Analysis**
+  *Python, Pandas, Seaborn* – Identify churn drivers and retention strategies
 
-* **Weather Forecast Web App (Demo)**
-  *HTML, CSS, JavaScript, API* — Real-time weather data
+* **E-Commerce Sales Analysis**
+  *SQL, Power BI* – Sales trends, KPIs, product performance
 
-* **Expense Tracker Web App (Demo)**
-  *JavaScript* — CRUD operations, charts, responsive UI
+* **Weather Forecast Web App**
+  *HTML, CSS, JavaScript, API* – Real-time weather data
+
+* **Expense Tracker Web App**
+  *JavaScript* – CRUD operations, charts, responsive UI
+
+* **Stock Market Data Analysis**
+  *Python, NumPy* – Price trends and indicators
 
 ---
 
@@ -77,73 +77,35 @@ Final-Year B.Tech (Mechanical Engineering) @ NIT Bhopal
 
 **Core Skills**
 
-* Programming: Python, Basic Java, Basic C#
-* Data Analytics: SQL, Power BI, Excel (Dashboards, Power Query, Pivot Tables)
+* Programming: Python, Basic Java, Basic C++
+* Data Analytics: SQL, Power BI, Excel (Dashboards, Pivot Tables)
 * Frontend: HTML, CSS, JavaScript
-* Other: Data Cleaning, EDA, Visualization, Graphic Designing
-
----
-
-## 🏭 Internship Experience
-
-**Trainee | Eicher TMTL, Bhopal**
-*May 2024 – June 2024*
-
-* Analyzed manufacturing defects in tractor assembly lines
-* Built automated Excel dashboards for defect tracking
-* Identified root causes and suggested corrective actions
-* Collaborated with QA teams to reduce surface defects
-
----
-
-## 📜 Certifications
-
-* **Google Data Analytics Specialization**
-
-  * Data Preparation, Cleaning & Analysis with R
-  * Making Data-Driven Decisions
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam9952&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Awards & Grit Highlights
-
-* Overcame early visual impairment and physical injuries
-* Maintained academic excellence despite health challenges
-* Head Boy in school
-* Sanskrit 3rd Ranker
-* Cricket tournament runner-up 🏏
+* Other: Data Cleaning, EDA, Visualization
 
 ---
 
 ## 🔭 Currently Working On
 
-* Learning: Streamlit, Advanced Power BI, Advanced SQL
-* Building interactive dashboards & data apps
-* Preparing for Data Analyst / Data Intern roles (2025)
+* Learning: **Advanced SQL, Power BI, Python for Data Analysis**
+* Building: **Interactive dashboards & web projects**
+* Target Roles: **Data Analyst / Data Intern / Web Developer**
 
 ---
 
 ## 📄 Resume
 
-📌 **[View Resume](https://drive.google.com/file/d/1UQ_SnG6nWADoeFjOxF0hsVxQXzuQBJY-/view)**
+📌 *Resume will be added soon*
 
 ---
 
 ## 🤝 Let’s Connect
 
-* 🌐 Portfolio: [https://pritam9952.github.io](https://pritam9952.github.io)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/pritam-nagar/](https://www.linkedin.com/in/pritam-nagar/)
-* 📸 Instagram: [https://instagram.com/pritam_nagar_027](https://instagram.com/pritam_nagar_027)
-* 📧 Email: **[pritamnagar2211@gmail.com](mailto:pritamnagar2211@gmail.com)**
+* 🌐 Portfolio: [https://surajdhakad.github.io](https://surajdhakad.github.io)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/suraj-dhakad/](https://www.linkedin.com/in/suraj-dhakad/)
+* 📧 Email: **[surajdhakad@gmail.com](mailto:surajdhakad@gmail.com)**
 
 ---
 
-<h3 align="center">✨ “Turning Obstacles into Opportunities with Code & Courage” ✨</h3>
+<h3 align="center">✨ “Consistency beats talent when talent doesn’t work hard.” ✨</h3>
+
+
